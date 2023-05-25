@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hallos, beautiful one 😄👋
 
-<!--
-**Anurella/Anurella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love the web as much as you do, building accessible and responsive UIs is a jam I can dance to all day. Learning is a thing around here and grateful to the teachers who make time to put out great resource 📖.
+Some of my faves 👇🏼, you can check out;
+1. [@argyleink](https://github.com/argyleink) 
+2. [@cassido](https://github.com/cassidoo)
+3. [@joshwcomeau](https://github.com/joshwcomeau)
+4. [@sarasoueidan](https://github.com/SaraSoueidan)
+5. [@mdnwebdocs](https://github.com/mdn/content)
 
-Here are some ideas to get you started:
+***note: the list is not exhaustive, a lot of amazing people to gain insight from*** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am learning and contributing to [@mdnwebdocs](https://github.com/mdn/content). My favourite thing about the web is CSS, seeing it evolve has made me appreciate time 🕰️, humble beginnings 🔰 and adventures 🧳. On days I am not coding you can catch me reading 🛋️ or sleeping 😴, I hope you are getting some sleep 😄. 
+
+Thank you for dropping by my spot 😄🙏🏼, be light and may joy surround you. 
+
+
+<!-- [![Anurella's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurella&count_private=true&hide=contribs,prs)]() -->
