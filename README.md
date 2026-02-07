@@ -10,7 +10,7 @@ Some of my faves 👇🏼, you can check out;
 
 ***note: the list is not exhaustive, a lot of amazing people to gain insight from*** 
 
-I am learning and contributing to [@mdnwebdocs](https://github.com/mdn/content). My favourite thing about the web is CSS, seeing it evolve has made me appreciate time 🕰️, humble beginnings 🔰 and adventures 🧳. On days I am not coding you can catch me reading 🛋️ or sleeping 😴, I hope you are getting some sleep 😄. 
+I am learning and contributing to [@mdnwebdocs](https://github.com/mdn/content). My favourite thing about the web is CSS so I have a reset [repository](https://github.com/Anurella/reset-css) to help get started on developent. Seeing CSS evolve has made me appreciate time 🕰️, humble beginnings 🔰 and adventures 🧳. On days I am not coding you can catch me reading 🛋️ or sleeping 😴, I hope you are getting some sleep 😄. 
 
 Thank you for dropping by my spot 😄🙏🏼, be light and may joy surround you. 
 
